@@ -1,0 +1,9 @@
+Translating general questions into statistically rigorous questions. 
+
+For the first scenario, translating ‘Which product do we feature in the next advertising campaign?” With the data available, we can ask questions adjacent to the question we want answered. Alternate questions could be ‘how long does each visitor spend on a  page before making a purchase?’, ‘how many visits originated from advertisements?’, ‘how many page views before purchase?’ and then compare how long each visitor who did purchase something spent on each page during their session.
+
+The second scenario, you are tasked with finding out why signups have slowed for a web design company. Answering ‘why’ here is challenging because ‘why’ questions typically have many many possible answers. Instead, we can ask ‘on what step do failed sign ups end on?’, ‘do unfinished signups spend longer on each step?’, ‘how long is the average completed sign up take?’, ‘what weeks have the most and least uncompleted sign ups in them?’ and ‘what was marketing doing during those weeks?’
+
+The third scenario has you proposing a different ranking system for a hotel website. The site currently only sorts by price. Alternate ranking systems could include availability and price, or popularity(least available hotel), or proximity to city center. 
+
+The fourth scenario has you looking at churn for a social media website and you are tasked with finding out if their churn is atypical. Using the historical data from the site, you can ask the data if the current amount of churn is atypical for the site compared to previous performance. Some questions to ask instead of ‘is this churn atypical?’ are ‘how often do users log in per day/week/month?’, ‘is there a ‘tipping point’ for length between visits that indicates a user stopping?’, ‘do users with longer sessions but fewer of them stay loyal to the site more than users with shorts sessions but more of them?’
